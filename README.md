@@ -1,5 +1,7 @@
 # 3DViewer v1.0
 
+This is a team project developed in collaboration with hunturek also student of School 21 in Moscow.
+
 Implementation of 3DViewer v1.0.
 
 ![interface image](/materials/pumpkin.png)
